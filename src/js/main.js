@@ -1,16 +1,3 @@
-/*-----------------------------------------------------------------------------------
-    Name: Moon Site
-    Theme URI: @chendoio
-    Description: Web Site - Portfolio - Chendo
-    Author: @chendoio - chendo : developer and web designer
-    Author URI: http://chendo.io
-    Github: https://github.com/chendoio
-    Youtube: https://youtube.com/chendoio
-
-//   Important:
-//   Background images and planets taken from frontend mentor open source project :)
------------------------------------------------------------------------------------*/
-
 const contact = document.querySelector('.container_luna');
 const submit = document.querySelector('#submit');
 const media = '(max-width: 575px)';

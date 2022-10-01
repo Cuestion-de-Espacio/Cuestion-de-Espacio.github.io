@@ -1,15 +1,3 @@
-/*-----------------------------------------------------------------------------------
-    Name: Moon Site
-    Theme URI: @chendoio
-    Description: Web Site - Portfolio - Chendo
-    Author: @chendoio - chendo : developer and web designer
-    Author URI: http://chendo.io
-    Github: https://github.com/chendoio
-    Youtube: https://youtube.com/chendoio
-
-//   Important:
-//   Background images and planets taken from frontend mentor open source project :)
------------------------------------------------------------------------------------*/
 const item1 = document.querySelector('.li1 > a');
 const item2 = document.querySelector('.li2 > a');
 const item3 = document.querySelector('.li3 > a');
